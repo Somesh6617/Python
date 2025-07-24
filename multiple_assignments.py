@@ -1,0 +1,20 @@
+#it allows us to assign a values to all the variables in a single line
+"""name="vasu"
+age=20
+val=True
+print(name)
+print(age)
+print(val)"""
+"""name,age,val="vasu",20,True
+print(name)
+print(age)
+print(val)
+print(name,age,val)"""
+"""n1=30
+n2=30
+n3=30
+print(n1)
+print(n2)
+print(n3)"""
+n1=n2=n3=30
+print(n1,n2,n3)
