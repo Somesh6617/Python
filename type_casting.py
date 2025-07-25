@@ -1,0 +1,16 @@
+x=1
+y=1.1
+z="1"
+x=x+y
+print(x,y,z)
+print(type(x),type(y),type(z))
+"""
+a=1
+b="1"
+c=1.1
+print(a,b,c)
+a=str(a)
+b=float(b)
+c=int(c)
+print(a,b,c)
+print(type(a),type(b),type(c))"""
